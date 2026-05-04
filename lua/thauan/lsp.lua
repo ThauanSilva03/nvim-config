@@ -10,3 +10,4 @@ vim.diagnostic.config({
     },
   },
 })
+
